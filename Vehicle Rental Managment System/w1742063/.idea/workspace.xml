@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73c1358d-198d-4863-9fc9-21c11b51ef18" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="515" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gradle Kotlin DSL Settings" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TZBl9rgFlUbfW7oeVXM0F8G37P" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Thanveer\Desktop\w1742063\src\com\farheen\View" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.farheen.Main.Main" />
+      <module name="w1742063" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.farheen.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WestminsterRentalVehicleManagerTest.testDeletingCarEntity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w1742063" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WestminsterRentalVehicleManagerTest" />
+      <option name="METHOD_NAME" value="testDeletingCarEntity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WestminsterRentalVehicleManagerTest.testDeletingMotorBikeEntity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w1742063" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WestminsterRentalVehicleManagerTest" />
+      <option name="METHOD_NAME" value="testDeletingMotorBikeEntity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WestminsterRentalVehicleManagerTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w1742063" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WestminsterRentalVehicleManagerTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WestminsterRentalVehicleManagerTest.testprintList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w1742063" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WestminsterRentalVehicleManagerTest" />
+      <option name="METHOD_NAME" value="testprintList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.WestminsterRentalVehicleManagerTest.testprintList" />
+        <item itemvalue="JUnit.WestminsterRentalVehicleManagerTest.testSave" />
+        <item itemvalue="JUnit.WestminsterRentalVehicleManagerTest.testDeletingMotorBikeEntity" />
+        <item itemvalue="JUnit.WestminsterRentalVehicleManagerTest.testDeletingCarEntity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73c1358d-198d-4863-9fc9-21c11b51ef18" name="Default Changelist" comment="" />
+      <created>1572182575585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572182575585</updated>
+      <workItem from="1573657887392" duration="12547000" />
+      <workItem from="1573715456222" duration="25255000" />
+      <workItem from="1573790807758" duration="801000" />
+      <workItem from="1573800749865" duration="1512000" />
+      <workItem from="1573808354889" duration="46000" />
+      <workItem from="1573813611892" duration="36000" />
+      <workItem from="1573821036000" duration="14343000" />
+      <workItem from="1573842025529" duration="666000" />
+      <workItem from="1573878970662" duration="1758000" />
+      <workItem from="1573904746015" duration="7955000" />
+      <workItem from="1573972212682" duration="4135000" />
+      <workItem from="1573989234399" duration="15046000" />
+      <workItem from="1574066901214" duration="4361000" />
+      <workItem from="1574240470973" duration="72000" />
+      <workItem from="1574251330893" duration="310000" />
+      <workItem from="1574251707177" duration="2162000" />
+      <workItem from="1574257889996" duration="1834000" />
+      <workItem from="1574266282185" duration="5550000" />
+      <workItem from="1574301482857" duration="2060000" />
+      <workItem from="1574312553776" duration="2340000" />
+      <workItem from="1574323120554" duration="422000" />
+      <workItem from="1574323997987" duration="20000" />
+      <workItem from="1574339662027" duration="3898000" />
+      <workItem from="1574368127688" duration="748000" />
+      <workItem from="1574594414608" duration="826000" />
+      <workItem from="1574600731472" duration="946000" />
+      <workItem from="1574823245108" duration="652000" />
+      <workItem from="1574912912865" duration="666000" />
+      <workItem from="1574939413902" duration="633000" />
+      <workItem from="1574944549034" duration="2961000" />
+      <workItem from="1574993598236" duration="2886000" />
+      <workItem from="1575000355638" duration="7528000" />
+      <workItem from="1575010580180" duration="2053000" />
+      <workItem from="1575021313797" duration="9667000" />
+      <workItem from="1575091825994" duration="6138000" />
+      <workItem from="1575111291080" duration="16235000" />
+      <workItem from="1575140346418" duration="360000" />
+      <workItem from="1575169417235" duration="8351000" />
+      <workItem from="1575182520370" duration="2921000" />
+      <workItem from="1575185490824" duration="441000" />
+      <workItem from="1575186395002" duration="31599000" />
+      <workItem from="1575235936908" duration="522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/w1742063$WestminsterRentalVehicleManagerTest_testDeletingMotorBikeEntity.ic" NAME="WestminsterRentalVehicleManagerTest.testDeletingMotorBikeEntity Coverage Results" MODIFIED="1575213991520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/w1742063$Main.ic" NAME="Main Coverage Results" MODIFIED="1575214826156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.farheen.Main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/w1742063$WestminsterRentalVehicleManagerTest_addTest_testAddingCarEntity.ic" NAME="WestminsterRentalVehicleManagerTest$addTest.testAddingCarEntity Coverage Results" MODIFIED="1575213880995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/w1742063$WestminsterRentalVehicleManagerTest_testSave.ic" NAME="WestminsterRentalVehicleManagerTest.testSave Coverage Results" MODIFIED="1575214019326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/w1742063$WestminsterRentalVehicleManagerTest_addTest_testAddingMotorBikeEntity.ic" NAME="WestminsterRentalVehicleManagerTest$addTest.testAddingMotorBikeEntity Coverage Results" MODIFIED="1575213780085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/w1742063$WestminsterRentalVehicleManagerTest_testDeletingCarEntity.ic" NAME="WestminsterRentalVehicleManagerTest.testDeletingCarEntity Coverage Results" MODIFIED="1575213962871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/w1742063$WestminsterRentalVehicleManagerTest_testprintList.ic" NAME="WestminsterRentalVehicleManagerTest.testprintList Coverage Results" MODIFIED="1575214007781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
